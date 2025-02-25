@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Paper Plane Flyer</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r134/three.min.js"></script>
+</head>
+<body>
+    <div class="container">
+        <h1>Paper Plane Flyer</h1>
+        <p>Use arrow keys to glide. Fly through rings for boosts!</p>
+        <div id="score-display">Score: 0</div>
+        <div id="stats-display">Speed: 0 | Altitude: 0</div>
+        <button id="mode-toggle">Switch to Challenge Mode</button>
+        <div id="plane-canvas" class="plane-container"></div>
+        <div id="game-over" class="game-over hidden">
+            <h2>Game Over</h2>
+            <p>Final Score: <span id="final-score">0</span></p>
+            <button onclick="location.reload()">Restart</button>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
