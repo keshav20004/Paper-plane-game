@@ -4,7 +4,7 @@ A fun and addictive browser-based paper plane game built with vanilla HTML, CSS,
 
 ## 🎮 Live Demo
 
-[Play the Game](https://keshav20004.github.io/Paper-plane-game/) *(Replace with your GitHub Pages URL)*
+https://keshavplane.netlify.app/
 
 ## ✨ Features
 
@@ -16,13 +16,6 @@ A fun and addictive browser-based paper plane game built with vanilla HTML, CSS,
 - 🚀 Progressive difficulty
 - 💾 Local high score storage
 
-## 📸 Screenshots/Demo
-
-![Game Screenshot](https://via.placeholder.com/600x400/87CEEB/ffffff?text=Game+Screenshot)
-*Replace with actual screenshot*
-
-![Gameplay GIF](https://via.placeholder.com/600x400/98FB98/ffffff?text=Gameplay+GIF)
-*Replace with actual gameplay GIF*
 
 ## 🎮 How to Play
 
@@ -67,11 +60,7 @@ A fun and addictive browser-based paper plane game built with vanilla HTML, CSS,
 3. **Run the game**
    - **Option 1**: Simply open `index.html` in your web browser
    - **Option 2**: Use Live Server extension in VS Code for better development experience
-   - **Option 3**: Use Python's built-in server:
-     ```bash
-     python -m http.server 8000
-     ```
-     Then open `http://localhost:8000` in your browser
+   
 
 ### Development Setup
 
