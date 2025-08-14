@@ -27,6 +27,7 @@ A fun and addictive browser-based paper plane game built with vanilla HTML, CSS,
 ## 🎮 How to Play
 
 ### Gameplay Instructions
+
 1. **Start**: Click anywhere on the screen or press spacebar to begin
 2. **Fly**: Control your paper plane by clicking/tapping or using keyboard controls
 3. **Avoid**: Navigate through obstacles without crashing
@@ -47,11 +48,12 @@ A fun and addictive browser-based paper plane game built with vanilla HTML, CSS,
 - **HTML5** - Game structure and canvas
 - **CSS3** - Styling and animations
 - **JavaScript (ES6+)** - Game logic and interactions
-- **Canvas API** - Game rendering *(if applicable)*
+- **Canvas API** - Game rendering (if applicable)
 
 ## 🚀 Getting Started
 
 ### Quick Start
+
 1. **Clone the repository**
    ```bash
    git clone https://github.com/keshav20004/Paper-plane-game.git
@@ -106,6 +108,7 @@ Contributions are welcome! Here's how you can help:
 5. **Open** a Pull Request
 
 ### Ideas for Contributions
+
 - Add sound effects
 - Implement power-ups
 - Create new obstacle types
@@ -130,5 +133,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Project Link: [https://github.com/keshav20004/Paper-plane-game](https://github.com/keshav20004/Paper-plane-game)
 
 ---
-
 ⭐ **Star this repo if you enjoyed playing the game!** ⭐
